@@ -1,1 +1,1 @@
-
+For this homework I downloaded a model of a rugged box from Thingiverse.com, uploaded by the user "TheSameNameTwice", and modified it by adding slots for bearings, turning it into a storage box for bearings.
